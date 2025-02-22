@@ -1,0 +1,15 @@
+[project]
+name = "hello-world"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+]
+
+[project.URLs]
+Homepage = "https://github.com/Riaz-Hussain-Saifi/python-birthday-age-calculator.git"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
